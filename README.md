@@ -1,1 +1,2 @@
-# responsive_value_CSS
+# Dynamically changing property value in CSS
+
